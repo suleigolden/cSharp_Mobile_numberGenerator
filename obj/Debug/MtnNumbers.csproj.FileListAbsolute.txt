@@ -1,0 +1,9 @@
+C:\Assigment\MtnNumbers\MtnNumbers\bin\Debug\MtnNumbers.exe
+C:\Assigment\MtnNumbers\MtnNumbers\bin\Debug\MtnNumbers.pdb
+C:\Assigment\MtnNumbers\MtnNumbers\obj\Debug\ResolveAssemblyReference.cache
+C:\Assigment\MtnNumbers\MtnNumbers\obj\Debug\MtnNumbers.exe
+C:\Assigment\MtnNumbers\MtnNumbers\obj\Debug\MtnNumbers.pdb
+C:\Users\SULEIGOLDEN\Documents\Visual Studio 2012\Projects\MtnNumbers\MtnNumbers\obj\Debug\MtnNumbers.exe
+C:\Users\SULEIGOLDEN\Documents\Visual Studio 2012\Projects\MtnNumbers\MtnNumbers\obj\Debug\MtnNumbers.pdb
+C:\Users\SULEIGOLDEN\Documents\Visual Studio 2012\Projects\MtnNumbers\MtnNumbers\bin\Debug\MtnNumbers.exe
+C:\Users\SULEIGOLDEN\Documents\Visual Studio 2012\Projects\MtnNumbers\MtnNumbers\obj\Debug\MtnNumbers.csprojResolveAssemblyReference.cache
